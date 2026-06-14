@@ -153,7 +153,7 @@ npm run build
 
 | Name | Role | Links |
 |------|------|-------|
-| **Muhammad Usman Sarwar** | Project Developer | [GitHub](https://github.com/Usmansarwar143) · [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253) |
+| **Muhammad Usman Sarwar** | Project Developer | [GitHub](https://github.com/Usmansarwar143) · [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253) · [Portfolio](https://Usmansarwar143.github.io/portfolio) |
 | **Sibgha Mursaleen** | Project Developer | [GitHub](https://github.com/SibghaMursaleen) · [LinkedIn](https://www.linkedin.com/in/sibgha-mursaleen-4567aa253) · [Portfolio](https://sibghamursaleen.vercel.app/) |
 
 
