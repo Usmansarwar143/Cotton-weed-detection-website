@@ -87,8 +87,8 @@ Cotton-Weed-Detection-Website/
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/SibghaMursaleen/Cotton-Weed-Detection-Website.git
-cd Cotton-Weed-Detection-Website
+git clone https://github.com/Usmansarwar143/Cotton-weed-detection-website.git
+cd Cotton-weed-detection-website
 ```
 
 **Step 2 — Install dependencies**
@@ -153,8 +153,9 @@ npm run build
 
 | Name | Role | Links |
 |------|------|-------|
-| **Sibgha Mursaleen** | Project Developer | [GitHub](https://github.com/SibghaMursaleen) · [LinkedIn](https://www.linkedin.com/in/sibgha-mursaleen-4567aa253) · [Portfolio](https://sibghamursaleen.vercel.app/) |
 | **Muhammad Usman Sarwar** | Project Developer | [GitHub](https://github.com/Usmansarwar143) · [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253) |
+| **Sibgha Mursaleen** | Project Developer | [GitHub](https://github.com/SibghaMursaleen) · [LinkedIn](https://www.linkedin.com/in/sibgha-mursaleen-4567aa253) · [Portfolio](https://sibghamursaleen.vercel.app/) |
+
 
 **Institution:** Sukkur IBA University — Department of Computer Systems Engineering
 
@@ -166,8 +167,8 @@ This website is part of a larger Cotton Weed Detection system:
 
 | Repository | Description |
 |------------|-------------|
-| **[Cotton Weed Detection Website](https://github.com/SibghaMursaleen/Cotton-Weed-Detection-Website)** *(this repo)* | Research showcase website built with React & Vite |
-| **[Cotton Weed Detection App](https://github.com/SibghaMursaleen/Cotton-Weed-Detection-App)** | Flutter mobile app with real TFLite on-device inference |
+| **[Cotton Weed Detection Website](https://github.com/Usmansarwar143/Cotton-weed-detection-website)** *(this repo)* | Research showcase website built with React & Vite |
+| **[Cotton Weed Detection App](https://github.com/Usmansarwar143/Cotton-weed-detection-app)** | Flutter mobile app with real TFLite on-device inference |
 
 ---
 
